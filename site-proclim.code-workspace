@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../site-proclim"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site-proclim"
+	}
+}
